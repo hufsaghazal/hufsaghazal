@@ -31,6 +31,7 @@ To develop strong skills in machine learning and build practical, real-world pro
 ## 📫 Contact
 - Email: hufsaghazal1@gmail.com  
 - GitHub: https://github.com/hufsaghazal
+- LinkedIn: https://www.linkedin.com/in/hufsaghazal
 <!---
 hufsaghazal/hufsaghazal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
