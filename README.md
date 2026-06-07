@@ -5,7 +5,7 @@ Applied mathematician with an interest in programming, data analytics, and compu
 ---
 
 ## 🚀 Current Focus
-- Python programming fundamentals 🐍  
+- Python programming 🐍  
 - SQL for data querying and manipulation 🗄️  
 - Excel for data handling and formula-based automation 📊  
 - Power BI for data visualization 📈  
