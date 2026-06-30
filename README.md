@@ -31,6 +31,8 @@ To develop practical programming and analytical skills through structured learni
 ---
 
 ## 📫 Contact
-- Email: hufsaghazal1@gmail.com  
-- GitHub: https://github.com/hufsaghazal  
+- Email: hufsaghazal1@gmail.com
 - LinkedIn: https://www.linkedin.com/in/hufsaghazal  
+- Substack: https://substack.com/@hufsaghazal
+- GitHub: https://github.com/hufsaghazal  
+
