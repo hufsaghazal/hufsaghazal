@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Hufsa Ghazal</h1>
 
-<h3 align="center">Applied Mathematician | Data Analytics | Python | SQL</h3>
+<h3 align="center">Applied Mathematician | Data Analyst | Python | SQL</h3>
 
 ---
 
@@ -8,7 +8,7 @@
 
 I'm an **Applied Mathematics graduate** with an interest in data, programming, and analytical problem-solving.
 
-I enjoy working with data to explore patterns, generate insights, and solve practical problems. I'm currently strengthening my skills in **Python, SQL, data analysis, data visualization, and statistics**.
+I enjoy working with data to uncover patterns, generate meaningful insights, and solve practical problems. I work with **Python, SQL, data analysis, data visualization, and statistics** to explore datasets and turn data into actionable insights.
 
 ---
 
@@ -66,16 +66,16 @@ I enjoy working with data to explore patterns, generate insights, and solve prac
 ### Core Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Problem%20Solving-2F80ED?style=flat-square" alt="Problem Solving">
-  <img src="https://img.shields.io/badge/Analytical%20Thinking-2F80ED?style=flat-square" alt="Analytical Thinking">
-  <img src="https://img.shields.io/badge/Statistics-2F80ED?style=flat-square" alt="Statistics">
-  <img src="https://img.shields.io/badge/Data%20Analysis-2F80ED?style=flat-square" alt="Data Analysis">
-  <img src="https://img.shields.io/badge/EDA-2F80ED?style=flat-square" alt="EDA">
-  <img src="https://img.shields.io/badge/Data%20Cleaning-2F80ED?style=flat-square" alt="Data Cleaning">
-  <img src="https://img.shields.io/badge/Data%20Visualization-2F80ED?style=flat-square" alt="Data Visualization">
-  <img src="https://img.shields.io/badge/Automation-2F80ED?style=flat-square" alt="Automation">
-  <img src="https://img.shields.io/badge/KPI%20Tracking-2F80ED?style=flat-square" alt="KPI Tracking">
-  <img src="https://img.shields.io/badge/Reporting-2F80ED?style=flat-square" alt="Reporting">
+  <img src="https://img.shields.io/badge/Problem%20Solving-0B2545?style=flat-square" alt="Problem Solving">
+  <img src="https://img.shields.io/badge/Analytical%20Thinking-0B2545?style=flat-square" alt="Analytical Thinking">
+  <img src="https://img.shields.io/badge/Statistics-0B2545?style=flat-square" alt="Statistics">
+  <img src="https://img.shields.io/badge/Data%20Analysis-0B2545?style=flat-square" alt="Data Analysis">
+  <img src="https://img.shields.io/badge/EDA-0B2545?style=flat-square" alt="EDA">
+  <img src="https://img.shields.io/badge/Data%20Cleaning-0B2545?style=flat-square" alt="Data Cleaning">
+  <img src="https://img.shields.io/badge/Data%20Visualization-0B2545?style=flat-square" alt="Data Visualization">
+  <img src="https://img.shields.io/badge/Automation-0B2545?style=flat-square" alt="Automation">
+  <img src="https://img.shields.io/badge/KPI%20Tracking-0B2545?style=flat-square" alt="KPI Tracking">
+  <img src="https://img.shields.io/badge/Reporting-0B2545?style=flat-square" alt="Reporting">
 </p>
 
 ---
@@ -89,11 +89,11 @@ I enjoy working with data to explore patterns, generate insights, and solve prac
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn">
       </a>
     </td>
-    <td align="center">
-      <a href="mailto:hufsaghazal1@gmail.com">
-        <img src="https://cdn.simpleicons.org/gmail" width="40" height="40" alt="Email">
-      </a>
-    </td>
+   <td align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hufsaghazal1@gmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail" width="40" height="40" alt="Email">
+  </a>
+</td>
   </tr>
 </table>
 
@@ -102,5 +102,7 @@ I enjoy working with data to explore patterns, generate insights, and solve prac
 ### GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hufsaghazal&theme=dark&hide_border=true" alt="Hufsa's GitHub Streak">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=hufsaghazal&theme=holi-theme" alt="Hufsa's GitHub Streak" />
+  </a>
 </p>
